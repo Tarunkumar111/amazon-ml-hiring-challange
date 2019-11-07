@@ -4,4 +4,4 @@ This repository contains the solution of amazon machine learning challenge. I ha
 
 Interested to learn about the approach:
 
-# [YOUTUBE VIDEO](https://https://youtu.be/cXb6jOnDcMM)
+
